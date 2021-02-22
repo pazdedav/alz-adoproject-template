@@ -1,0 +1,16 @@
+{
+  "data": {
+
+  },
+  "name": "eslz-adoproject-template-code",
+  "type": "git",
+  "url": "https://dev.azure.com/dapazd/eslz-adoproject-template/_git/eslz-adoproject-template",
+  "authorization": {
+    "scheme": "UsernamePassword",
+    "parameters": {
+      "username": "$username$",
+      "password": "$password$"
+    }
+  },
+  "isReady": true
+}

@@ -1,0 +1,1447 @@
+{
+  "count": 36,
+  "value": [
+    {
+      "id": 487,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:13:24.81Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T19:13:24.81Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Create landing zones",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://github.com/Azure/Enterprise-Scale/blob/main/docs/EnterpriseScale-Deploy-landing-zones.md\">https://github.com/Azure/Enterprise-Scale/blob/main/docs/EnterpriseScale-Deploy-landing-zones.md</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/484",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/487"
+    },
+    {
+      "id": 486,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:12:41.777Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T19:12:41.777Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Deploy reference implementation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://github.com/Azure/Enterprise-Scale/blob/main/docs/EnterpriseScale-Deploy-reference-implentations.md\">https://github.com/Azure/Enterprise-Scale/blob/main/docs/EnterpriseScale-Deploy-reference-implentations.md</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/484",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/486"
+    },
+    {
+      "id": 485,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:12:08.123Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T19:12:08.123Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Configure Azure permissions",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://github.com/Azure/Enterprise-Scale/blob/main/docs/EnterpriseScale-Setup-azure.md\">https://github.com/Azure/Enterprise-Scale/blob/main/docs/EnterpriseScale-Setup-azure.md</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/484",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/485"
+    },
+    {
+      "id": 479,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:00:25.643Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T19:00:25.643Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Central and federated responsibilities",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing roles and responsibilities (central vs. federated) using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops#define-central-and-federated-responsibilities\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops#define-central-and-federated-responsibilities</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for roles and responsibilities (central vs. federated) are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/445",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/479"
+    },
+    {
+      "id": 478,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:58:35.313Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:58:35.313Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "DevOps approach",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing DevOps approach using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops#planning-for-a-devops-approach\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops#planning-for-a-devops-approach</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for DevOps approach are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/445",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/478"
+    },
+    {
+      "id": 477,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:55:47.76Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:55:47.76Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Service enablement framework",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Assess adopting Service enablement framework using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#service-enablement-framework\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#service-enablement-framework</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span><span style=\"font-family:&quot;Segoe UI&quot;, sans-serif;font-size:10.5pt;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all decisions for Service enablement framework are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/444",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/477"
+    },
+    {
+      "id": 476,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:52:56.997Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:52:56.997Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Security baseline",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing security baseline using&nbsp;<span style=\"box-sizing:border-box;cursor:pointer;font-family:Calibri, sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#azure-security-benchmark\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#azure-security-benchmark</a></span></span></p><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">security baseline for your Azure environment</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">security baseline selected and implementation plan documented</span></li></ul><br>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/444",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/476"
+    },
+    {
+      "id": 475,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:50:17.303Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:50:17.303Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Platform security",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing platform security using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#plan-for-platform-security\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#plan-for-platform-security</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for platform security are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/444",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/475"
+    },
+    {
+      "id": 474,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:47:40.16Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:47:40.16Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Security monitoring and audit policy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing security monitoring and audit policy using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#define-security-monitoring-and-an-audit-policy\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#define-security-monitoring-and-an-audit-policy</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for <span style=\"font-family:&quot;Segoe UI&quot;, sans-serif;text-align:start;display:inline !important;\">security monitoring and audit policy</span> are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/444",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/474"
+    },
+    {
+      "id": 473,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:45:27.71Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:45:27.71Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Governance model",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing governance model using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#plan-for-governance\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#plan-for-governance</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for <span style=\"font-family:&quot;Segoe UI&quot;, sans-serif;text-align:start;display:inline !important;\">governance model&nbsp;</span>are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/444",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/473"
+    },
+    {
+      "id": 472,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:43:31.237Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:43:31.237Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Encryption and key management",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing encryption and key management using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#define-encryption-and-key-management\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance#define-encryption-and-key-management</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for <span style=\"font-family:&quot;Segoe UI&quot;, sans-serif;text-align:start;display:inline !important;\">encryption and key management</span> are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/444",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/472"
+    },
+    {
+      "id": 471,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:41:39.387Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:41:39.387Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Business continuity and DR",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing business continuity and disaster recovery using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/business-continuity-and-disaster-recovery\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/business-continuity-and-disaster-recovery</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for <span style=\"font-family:&quot;Segoe UI&quot;, sans-serif;text-align:start;display:inline !important;\">business continuity and disaster recovery</span> are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/443",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/471"
+    },
+    {
+      "id": 470,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:39:21.07Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:39:21.07Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Application management and monitoring",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing application management and monitoring using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-and-monitoring#plan-for-application-management-and-monitoring\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-and-monitoring#plan-for-application-management-and-monitoring</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for <span style=\"font-family:&quot;Segoe UI&quot;, sans-serif;text-align:start;display:inline !important;\">application management and monitoring</span> are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/442",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/470"
+    },
+    {
+      "id": 469,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:37:27.62Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:37:27.62Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Platform management and monitoring",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing platform management and monitoring using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-and-monitoring#plan-platform-management-and-monitoring\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-and-monitoring#plan-platform-management-and-monitoring</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for platform management and monitoring are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/442",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/469"
+    },
+    {
+      "id": 468,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:34:12.897Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:34:12.897Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Network traffic inspection",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing network traffic inspection using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-traffic-inspection\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-traffic-inspection</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for network traffic inspection are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/468"
+    },
+    {
+      "id": 467,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:32:24.703Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:32:24.703Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Network encryption",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing network encryption model using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#define-network-encryption-requirements\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#define-network-encryption-requirements</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for network encryption are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/467"
+    },
+    {
+      "id": 466,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:30:53.347Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:30:53.347Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Landing zone network segmentation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing landing zone network segmentation using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-landing-zone-network-segmentation\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-landing-zone-network-segmentation</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for landing zone network segmentation are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/466"
+    },
+    {
+      "id": 465,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:28:57.19Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:28:57.19Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Application delivery",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing application delivery using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-app-delivery\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-app-delivery</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for application delivery are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/465"
+    },
+    {
+      "id": 464,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:27:02.413Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:27:02.413Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Inbound and outbound internet connectivity",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing inbound and outbound internet connectivity using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-inbound-and-outbound-internet-connectivity\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-inbound-and-outbound-internet-connectivity</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><br></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for <span style=\"font-family:&quot;Segoe UI&quot;, sans-serif;text-align:start;display:inline !important;\">inbound and outbound internet connectivity</span> are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/464"
+    },
+    {
+      "id": 463,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:25:22.07Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:25:22.07Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Connectivity to Azure PaaS services",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing connectivity to Azure PaaS services using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#connectivity-to-azure-paas-services\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#connectivity-to-azure-paas-services</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for <span style=\"font-family:&quot;Segoe UI&quot;, sans-serif;text-align:start;display:inline !important;\">connectivity to Azure PaaS services</span>&nbsp;are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/463"
+    },
+    {
+      "id": 462,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:23:50.11Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:23:50.11Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Connectivity to Azure",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing connectivity to Azure using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#connectivity-to-azure\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#connectivity-to-azure</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for connectivity to Azure are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/462"
+    },
+    {
+      "id": 461,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:20:51.14Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:20:51.14Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Azure network topology",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing Azure network topology using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#define-an-azure-network-topology\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#define-an-azure-network-topology</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design patterns (Azure VWAN vs. traditional Hub and Spoke)</span></li><li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for Azure network topology are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/461"
+    },
+    {
+      "id": 460,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:17:33.223Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:17:33.223Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Name resolution (DNS)",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan and/or review existing DNS design using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#configure-dns-and-name-resolution-for-on-premises-and-azure-resources\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#configure-dns-and-name-resolution-for-on-premises-and-azure-resources</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for name resolution (hybrid, if applicable) are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/460"
+    },
+    {
+      "id": 459,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:15:30.76Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:15:30.76Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "IP Address Management",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing IP address management plan using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-ip-addressing\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity#plan-for-ip-addressing</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for IPAM in Azure are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/459"
+    },
+    {
+      "id": 458,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:12:09.99Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:12:09.99Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Establish cost management",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing cost management model using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization#establish-cost-management\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization#establish-cost-management</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for cost management model are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/440",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/458"
+    },
+    {
+      "id": 457,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:10:34.4Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:10:34.4Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Define subscription quota and capacity",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing subscription quota and capacity using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization#configure-subscription-quota-and-capacity\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization#configure-subscription-quota-and-capacity</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for subscription quota and capacity are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/440",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/457"
+    },
+    {
+      "id": 456,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:08:32.59Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:08:32.59Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Subscription organization and governance",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing subscription organization and governance using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization#subscription-organization-and-governance\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization#subscription-organization-and-governance</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for subscription organization and governance are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/440",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/456"
+    },
+    {
+      "id": 455,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T18:04:40.977Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:04:40.977Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Define a management group hierarchy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing management group hierarchy using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization#define-a-management-group-hierarchy\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization#define-a-management-group-hierarchy</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for management group hierarchy are made and documented</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/440",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/455"
+    },
+    {
+      "id": 454,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T17:56:48.947Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:05:10.343Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Plan for authentication inside a landing zone",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing authentication inside a landing zone using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/identity-and-access-management#plan-for-authentication-inside-a-landing-zone\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/identity-and-access-management#plan-for-authentication-inside-a-landing-zone</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for authentication inside a landing zone are done</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/439",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/454"
+    },
+    {
+      "id": 453,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T17:55:25.32Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:05:53.81Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Plan for identity and access management",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing Identity and access management design using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/identity-and-access-management#plan-for-identity-and-access-management\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/identity-and-access-management#plan-for-identity-and-access-management</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for Identity and access management are made</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">any required changes (brownfield) for reaching\n     &quot;golden state&quot; are identified and documented</span></li></ul><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/439",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/453"
+    },
+    {
+      "id": 452,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T14:53:06.84Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T14:53:06.84Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Define Azure AD tenants",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan\nor review existing Azure AD tenants using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/enterprise-enrollment-and-azure-ad-tenants#define-azure-ad-tenants\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/enterprise-enrollment-and-azure-ad-tenants#define-azure-ad-tenants</a></span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Present and discuss:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     considerations</span></li>\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     recommendations</span></li></ul><div><font face=\"Segoe UI, sans-serif\"><br></font></div><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Discuss and document:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">design\n     decisions</span></li></ul><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">&nbsp;</span></p><p style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\"><b style=\"box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Definition of done:</span></b><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\"></span></p><ul style=\"margin-bottom:0in;box-sizing:border-box;\">\n <li style=\"margin:0in;font-size:11pt;font-family:Calibri, sans-serif;box-sizing:border-box;\"><span style=\"font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">all\n     design decisions for Azure AD tenants are made and documented</span></li><li style=\"margin:0in;box-sizing:border-box;\"><font face=\"Segoe UI, sans-serif\">any required changes (brownfield) for reaching &quot;golden state&quot; are identified and documented</font></li></ul><br>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/438",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/452"
+    },
+    {
+      "id": 451,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T14:48:27.473Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T18:06:34.693Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Plan enterprise enrollment",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Plan or review existing enterprise enrollment using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/enterprise-enrollment-and-azure-ad-tenants#plan-for-enterprise-enrollment\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/enterprise-enrollment-and-azure-ad-tenants#plan-for-enterprise-enrollment</a></div><div><br></div><div><b>Present and discuss:</b></div><div><ul><li>design considerations</li><li>design recommendations</li></ul><div><b>Discuss and document:</b></div><div><ul><li>design decisions</li></ul><div><br></div><div><b>Definition of done:</b></div><div><ul><li>all design decisions for enterprise enrollment are made and documented</li><li><span style=\"box-sizing:border-box;font-size:10.5pt;font-family:&quot;Segoe UI&quot;, sans-serif;\">any required changes (brownfield) for reaching &quot;golden state&quot; are identified and documented</span><br></li></ul></div></div></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/438",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/451"
+    },
+    {
+      "id": 450,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T14:37:18.99Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T14:39:47.693Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Workshop preparation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Discuss and agree within the <b>core team</b>&nbsp;on the following:</div><div><ul><li>who will facilitate (drive) each session (typically the Lead Architect)</li><li>format of the sessions (physical, virtual)</li><li>important tools for tracking the progress and documenting design decisions</li><li>background material to support the discussions (e.g., slides, diagrams, links to documentation)</li><li>how should attendees prepare before the sessions (Know before you go)</li></ul><div><b>Definition of done:</b></div><div><ul><li>each session has a clear facilitator (host)</li><li>meeting invitations were updated with virtual meeting links or physical addresses</li><li>selected tools for documenting the progress and outcome (e.g., design decisions) are ready</li><li>background material for each session is ready</li><li>session attendees were informed in advance what they should prepare and/or study (e.g. links to Enterprise Scale docs or Microsoft Learn)</li></ul></div></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/446",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/450"
+    },
+    {
+      "id": 449,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T14:29:03.68Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T14:42:24.837Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Introduction session (extended team)",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Host an introduction session (scoping call) with all key resources, where you:</div><div><ul><li>give a high-level overview of Enterprise Scale</li><li>explain goals and objectives for the Enterprise-scale workshop</li><li>introduce and emphasize the importance of <u>design principles</u></li><li>agree on specific workshop sessions, their dates, and times, required and optional attendees</li><li>align expectations (how can attendees prepare for the sessions)</li></ul><div><b>Definition of done:</b></div><div><ul><li>all workshop sessions are planned, invitations sent, and accepted by key resources</li></ul></div></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/446",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/449"
+    },
+    {
+      "id": 448,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T14:23:17.353Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T14:38:30.253Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Stakeholders and key resources mapping",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Identify and ensure participation of important stakeholders and key resources like Subject Matter Experts in the project, both internal and external (if applicable). They should be aligned with all <b>critical design areas</b>&nbsp;of Enterprise Scale.</div><div><br></div><div>This is particularly important for outsourced IT functions, where internal resources have limited visibility and responsibility.</div><div><br></div><div><b>Definition of done:</b></div><div><ul><li>key stakeholders and SMEs are identified</li><li>External resources agreed to participate in the project</li></ul></div><div><br></div><div><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/446",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/448"
+    },
+    {
+      "id": 447,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T14:18:14.307Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T14:37:39.43Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Identify key role holders (core team)",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Identify who will hold the following key roles in the project:</div><div><ul><li>Sponsor</li><li>Project manager (Product owner)</li><li>Lead architect</li></ul><div><br></div><div><b>Definition of done:</b></div><div><ul><li>all key roles are nominated and approved</li></ul></div></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/446",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/447"
+    }
+  ],
+  "HttpStatusCode": 0,
+  "Message": null
+}

@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "gitSource": {
+      "url": "https://dev.azure.com/dapazd/eslz-adoproject-template/_git/eslz-adoproject-template"
+    },
+    "serviceEndpointId": "$eslz-adoproject-template-code$",
+    "deleteServiceEndpointAfterImportIsDone": true
+  }
+}
