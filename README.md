@@ -31,8 +31,9 @@ This repo contains a **project template** for Azure DevOps [Demo Generator](http
 
 
 8. Scroll to the bottom and click "Create Project".
+![Step 8.1](https://user-images.githubusercontent.com/19664186/118845191-da94f880-b8cb-11eb-87d5-d5c5f340c660.png)
 
 Update bar like below will start
 
-![Step 8](https://user-images.githubusercontent.com/19664186/118844926-a28db580-b8cb-11eb-8663-b25fd5300558.png)
+![Step 8.2](https://user-images.githubusercontent.com/19664186/118844926-a28db580-b8cb-11eb-8663-b25fd5300558.png)
 
