@@ -2,8 +2,8 @@
   "count": 15,
   "value": [
     {
-      "id": 488,
-      "rev": 2,
+      "id": 438,
+      "rev": 5,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -11,349 +11,13 @@
         "System.WorkItemType": "User Story",
         "System.State": "New",
         "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T19:15:43.783Z",
+        "System.CreatedDate": "2021-02-22T14:03:40.97Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedDate": "2022-01-19T16:55:19.98Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Platform as Code implementation",
+        "System.Title": "Azure billing and Active Directory tenant",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://github.com/Azure/Enterprise-Scale/blob/main/docs/Deploy/getting-started.md\">https://github.com/Azure/Enterprise-Scale/blob/main/docs/Deploy/getting-started.md</a></div>",
-        "System.AssignedTo": null,
-        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
-        "Microsoft.VSTS.Common.Priority": 2.0,
-        "System.BoardLane": null,
-        "System.Tags": null,
-        "Microsoft.VSTS.TCM.Steps": null,
-        "Microsoft.VSTS.TCM.Parameters": null,
-        "Microsoft.VSTS.TCM.LocalDataSource": null,
-        "Microsoft.VSTS.TCM.AutomationStatus": null,
-        "System.History": null
-      },
-      "relations": [
-        {
-          "rel": "System.LinkTypes.Hierarchy-Reverse",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/432",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Parent"
-          }
-        }
-      ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/488"
-    },
-    {
-      "id": 484,
-      "rev": 2,
-      "fields": {
-        "System.AreaPath": "eslz-adoproject-template",
-        "System.TeamProject": "eslz-adoproject-template",
-        "System.IterationPath": "$ProjectName$\\Iteration 1",
-        "System.WorkItemType": "User Story",
-        "System.State": "New",
-        "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T19:11:29.4Z",
-        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
-        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Deploy reference implementation",
-        "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": null,
-        "System.AssignedTo": null,
-        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
-        "Microsoft.VSTS.Common.Priority": 2.0,
-        "System.BoardLane": null,
-        "System.Tags": null,
-        "Microsoft.VSTS.TCM.Steps": null,
-        "Microsoft.VSTS.TCM.Parameters": null,
-        "Microsoft.VSTS.TCM.LocalDataSource": null,
-        "Microsoft.VSTS.TCM.AutomationStatus": null,
-        "System.History": null
-      },
-      "relations": [
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/487",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/485",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/486",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Reverse",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/432",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Parent"
-          }
-        }
-      ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/484"
-    },
-    {
-      "id": 483,
-      "rev": 2,
-      "fields": {
-        "System.AreaPath": "eslz-adoproject-template",
-        "System.TeamProject": "eslz-adoproject-template",
-        "System.IterationPath": "$ProjectName$\\Iteration 1",
-        "System.WorkItemType": "User Story",
-        "System.State": "New",
-        "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T19:10:09.863Z",
-        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
-        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Review reference implementations",
-        "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Review available reference implementations on GitHub:&nbsp;<a href=\"https://github.com/Azure/Enterprise-Scale\">https://github.com/Azure/Enterprise-Scale</a></div><div><br></div><div>Decide, if any alternative is suitable, and whether you can use it as-is or customize it.</div>",
-        "System.AssignedTo": null,
-        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
-        "Microsoft.VSTS.Common.Priority": 2.0,
-        "System.BoardLane": null,
-        "System.Tags": null,
-        "Microsoft.VSTS.TCM.Steps": null,
-        "Microsoft.VSTS.TCM.Parameters": null,
-        "Microsoft.VSTS.TCM.LocalDataSource": null,
-        "Microsoft.VSTS.TCM.AutomationStatus": null,
-        "System.History": null
-      },
-      "relations": [
-        {
-          "rel": "System.LinkTypes.Hierarchy-Reverse",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/432",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Parent"
-          }
-        }
-      ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/483"
-    },
-    {
-      "id": 482,
-      "rev": 2,
-      "fields": {
-        "System.AreaPath": "eslz-adoproject-template",
-        "System.TeamProject": "eslz-adoproject-template",
-        "System.IterationPath": "$ProjectName$\\Iteration 1",
-        "System.WorkItemType": "User Story",
-        "System.State": "New",
-        "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T19:04:31.65Z",
-        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
-        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "File > New > Landing Zone",
-        "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#file--new--landing-zone-for-applications-and-workloads\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#file--new--landing-zone-for-applications-and-workloads</a></div>",
-        "System.AssignedTo": null,
-        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
-        "Microsoft.VSTS.Common.Priority": 2.0,
-        "System.BoardLane": null,
-        "System.Tags": null,
-        "Microsoft.VSTS.TCM.Steps": null,
-        "Microsoft.VSTS.TCM.Parameters": null,
-        "Microsoft.VSTS.TCM.LocalDataSource": null,
-        "Microsoft.VSTS.TCM.AutomationStatus": null,
-        "System.History": null
-      },
-      "relations": [
-        {
-          "rel": "System.LinkTypes.Hierarchy-Reverse",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/431",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Parent"
-          }
-        }
-      ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/482"
-    },
-    {
-      "id": 481,
-      "rev": 2,
-      "fields": {
-        "System.AreaPath": "eslz-adoproject-template",
-        "System.TeamProject": "eslz-adoproject-template",
-        "System.IterationPath": "$ProjectName$\\Iteration 1",
-        "System.WorkItemType": "User Story",
-        "System.State": "New",
-        "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T19:03:49.503Z",
-        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
-        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "File > New > Region",
-        "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#file--new--region\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#file--new--region</a></div>",
-        "System.AssignedTo": null,
-        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
-        "Microsoft.VSTS.Common.Priority": 2.0,
-        "System.BoardLane": null,
-        "System.Tags": null,
-        "Microsoft.VSTS.TCM.Steps": null,
-        "Microsoft.VSTS.TCM.Parameters": null,
-        "Microsoft.VSTS.TCM.LocalDataSource": null,
-        "Microsoft.VSTS.TCM.AutomationStatus": null,
-        "System.History": null
-      },
-      "relations": [
-        {
-          "rel": "System.LinkTypes.Hierarchy-Reverse",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/431",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Parent"
-          }
-        }
-      ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/481"
-    },
-    {
-      "id": 480,
-      "rev": 2,
-      "fields": {
-        "System.AreaPath": "eslz-adoproject-template",
-        "System.TeamProject": "eslz-adoproject-template",
-        "System.IterationPath": "$ProjectName$\\Iteration 1",
-        "System.WorkItemType": "User Story",
-        "System.State": "New",
-        "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T19:03:06.743Z",
-        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
-        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Prerequisites for an enterprise-scale landing zone",
-        "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#what-must-be-true-for-an-enterprise-scale-landing-zone\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#what-must-be-true-for-an-enterprise-scale-landing-zone</a></div>",
-        "System.AssignedTo": null,
-        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
-        "Microsoft.VSTS.Common.Priority": 2.0,
-        "System.BoardLane": null,
-        "System.Tags": null,
-        "Microsoft.VSTS.TCM.Steps": null,
-        "Microsoft.VSTS.TCM.Parameters": null,
-        "Microsoft.VSTS.TCM.LocalDataSource": null,
-        "Microsoft.VSTS.TCM.AutomationStatus": null,
-        "System.History": null
-      },
-      "relations": [
-        {
-          "rel": "System.LinkTypes.Hierarchy-Reverse",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/431",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Parent"
-          }
-        }
-      ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/480"
-    },
-    {
-      "id": 446,
-      "rev": 2,
-      "fields": {
-        "System.AreaPath": "eslz-adoproject-template",
-        "System.TeamProject": "eslz-adoproject-template",
-        "System.IterationPath": "$ProjectName$\\Iteration 1",
-        "System.WorkItemType": "User Story",
-        "System.State": "New",
-        "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T14:12:22.927Z",
-        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
-        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Prepare for Enterprise-Scale workshop",
-        "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": null,
-        "System.AssignedTo": null,
-        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
-        "Microsoft.VSTS.Common.Priority": 2.0,
-        "System.BoardLane": null,
-        "System.Tags": null,
-        "Microsoft.VSTS.TCM.Steps": null,
-        "Microsoft.VSTS.TCM.Parameters": null,
-        "Microsoft.VSTS.TCM.LocalDataSource": null,
-        "Microsoft.VSTS.TCM.AutomationStatus": null,
-        "System.History": null
-      },
-      "relations": [
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/448",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/447",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Reverse",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/434",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Parent"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/449",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/450",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        }
-      ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/446"
-    },
-    {
-      "id": 445,
-      "rev": 3,
-      "fields": {
-        "System.AreaPath": "eslz-adoproject-template",
-        "System.TeamProject": "eslz-adoproject-template",
-        "System.IterationPath": "$ProjectName$\\Iteration 1",
-        "System.WorkItemType": "User Story",
-        "System.State": "New",
-        "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T14:05:42.75Z",
-        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
-        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Platform automation and DevOps",
-        "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops</a></div>",
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/enterprise-enrollment-and-azure-ad-tenants\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/enterprise-enrollment-and-azure-ad-tenants</a></div>",
         "System.AssignedTo": null,
         "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
         "Microsoft.VSTS.Common.Priority": 2.0,
@@ -376,7 +40,7 @@
         },
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/478",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/451",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
@@ -384,18 +48,18 @@
         },
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/479",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/452",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
           }
         }
       ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/445"
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/438"
     },
     {
-      "id": 444,
-      "rev": 3,
+      "id": 439,
+      "rev": 6,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -403,101 +67,13 @@
         "System.WorkItemType": "User Story",
         "System.State": "New",
         "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T14:05:25.953Z",
+        "System.CreatedDate": "2021-02-22T14:03:54.05Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedDate": "2022-01-19T16:59:20.64Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Security, governance and compliance",
+        "System.Title": "Identity & access management",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance</a></div>",
-        "System.AssignedTo": null,
-        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
-        "Microsoft.VSTS.Common.Priority": 2.0,
-        "System.BoardLane": null,
-        "System.Tags": null,
-        "Microsoft.VSTS.TCM.Steps": null,
-        "Microsoft.VSTS.TCM.Parameters": null,
-        "Microsoft.VSTS.TCM.LocalDataSource": null,
-        "Microsoft.VSTS.TCM.AutomationStatus": null,
-        "System.History": null
-      },
-      "relations": [
-        {
-          "rel": "System.LinkTypes.Hierarchy-Reverse",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/436",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Parent"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/474",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/475",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/476",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/472",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/473",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/477",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        }
-      ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/444"
-    },
-    {
-      "id": 443,
-      "rev": 3,
-      "fields": {
-        "System.AreaPath": "eslz-adoproject-template",
-        "System.TeamProject": "eslz-adoproject-template",
-        "System.IterationPath": "$ProjectName$\\Iteration 1",
-        "System.WorkItemType": "User Story",
-        "System.State": "New",
-        "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T14:05:10.807Z",
-        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
-        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Business continuity and disaster recovery",
-        "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/business-continuity-and-disaster-recovery\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/business-continuity-and-disaster-recovery</a></div>",
+        "System.Description": "<div>This critical design area establishes a foundation for the management of identity and access.<br> </div><div><br> </div><div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/identity-access\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/identity-access</a> </div>",
         "System.AssignedTo": null,
         "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
         "Microsoft.VSTS.Common.Priority": 2.0,
@@ -512,7 +88,15 @@
       "relations": [
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/471",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/453",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/454",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
@@ -527,11 +111,11 @@
           }
         }
       ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/443"
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/439"
     },
     {
-      "id": 442,
-      "rev": 3,
+      "id": 440,
+      "rev": 5,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -539,13 +123,13 @@
         "System.WorkItemType": "User Story",
         "System.State": "New",
         "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T14:04:47.567Z",
+        "System.CreatedDate": "2021-02-22T14:04:16.493Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedDate": "2022-01-19T19:11:47.637Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Management and monitoring",
+        "System.Title": "Resource organization",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-and-monitoring\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-and-monitoring</a></div>",
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization</a></div>",
         "System.AssignedTo": null,
         "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
         "Microsoft.VSTS.Common.Priority": 2.0,
@@ -560,7 +144,31 @@
       "relations": [
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/470",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/456",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/458",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/457",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/455",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
@@ -573,21 +181,13 @@
             "isLocked": "false",
             "name": "Parent"
           }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/469",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
         }
       ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/442"
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/440"
     },
     {
       "id": 441,
-      "rev": 3,
+      "rev": 6,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -597,11 +197,11 @@
         "System.Reason": "New",
         "System.CreatedDate": "2021-02-22T14:04:31.89Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedDate": "2022-01-19T20:22:26.937Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Network topology and connectivity",
+        "System.Title": "Network topology & connectivity",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/network-topology-and-connectivity</a></div>",
+        "System.Description": "<div>The network topology and connectivity design area is critical for establishing a foundation for your cloud network design.<br> </div><div><br> </div><div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/network-topology-and-connectivity\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/network-topology-and-connectivity</a> </div>",
         "System.AssignedTo": null,
         "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
         "Microsoft.VSTS.Common.Priority": 2.0,
@@ -706,8 +306,8 @@
       "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/441"
     },
     {
-      "id": 440,
-      "rev": 3,
+      "id": 442,
+      "rev": 5,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -715,13 +315,13 @@
         "System.WorkItemType": "User Story",
         "System.State": "New",
         "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T14:04:16.493Z",
+        "System.CreatedDate": "2021-02-22T14:04:47.567Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedDate": "2022-01-19T21:00:50.593Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Management group and subscription organization",
+        "System.Title": "Management",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/management-group-and-subscription-organization</a></div>",
+        "System.Description": "<div>This design area establishes a foundation for operations management across your Azure, hybrid, or multicloud environments.<br> </div><div><br> </div><div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/management\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/management</a> </div>",
         "System.AssignedTo": null,
         "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
         "Microsoft.VSTS.Common.Priority": 2.0,
@@ -736,31 +336,7 @@
       "relations": [
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/456",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/458",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/457",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/455",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/470",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
@@ -773,13 +349,29 @@
             "isLocked": "false",
             "name": "Parent"
           }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/469",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/678",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
         }
       ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/440"
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/442"
     },
     {
-      "id": 439,
-      "rev": 3,
+      "id": 443,
+      "rev": 5,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -787,13 +379,13 @@
         "System.WorkItemType": "User Story",
         "System.State": "New",
         "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T14:03:54.05Z",
+        "System.CreatedDate": "2021-02-22T14:05:10.807Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedDate": "2022-01-19T21:20:34.25Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Identity and access management",
+        "System.Title": "Security",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/identity-and-access-management\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/identity-and-access-management</a></div>",
+        "System.Description": "<div>This design area creates a foundation for security across your Azure, hybrid, and multicloud environments.<br> </div><div><br> </div><div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/security\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/security</a> </div>",
         "System.AssignedTo": null,
         "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
         "Microsoft.VSTS.Common.Priority": 2.0,
@@ -808,7 +400,7 @@
       "relations": [
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/453",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/474",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
@@ -816,7 +408,15 @@
         },
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/454",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/472",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/471",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
@@ -831,11 +431,11 @@
           }
         }
       ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/439"
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/443"
     },
     {
-      "id": 438,
-      "rev": 3,
+      "id": 444,
+      "rev": 4,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -843,13 +443,13 @@
         "System.WorkItemType": "User Story",
         "System.State": "New",
         "System.Reason": "New",
-        "System.CreatedDate": "2021-02-22T14:03:40.97Z",
+        "System.CreatedDate": "2021-02-22T14:05:25.953Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedDate": "2022-01-19T16:02:51.323Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Enterprise Agreement enrollment and Azure Active Directory tenants",
+        "System.Title": "Governance",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/enterprise-enrollment-and-azure-ad-tenants\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/enterprise-enrollment-and-azure-ad-tenants</a></div>",
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/security-governance-and-compliance</a></div>",
         "System.AssignedTo": null,
         "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
         "Microsoft.VSTS.Common.Priority": 2.0,
@@ -872,7 +472,7 @@
         },
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/451",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/475",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
@@ -880,14 +480,406 @@
         },
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/452",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/473",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
           }
         }
       ],
-      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/438"
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/444"
+    },
+    {
+      "id": 445,
+      "rev": 6,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T14:05:42.75Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2022-01-19T22:10:00.957Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Platform automation & DevOps",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Platform automation and DevOps evaluate opportunities to modernize your approach to environmental deployment with infrastructure as code options.<br> </div><div><br> </div><div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops</a> </div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/436",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/478",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/479",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/445"
+    },
+    {
+      "id": 446,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T14:12:22.927Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2022-01-19T16:11:30.763Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Prepare for Azure Landing Zone workshop",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span><b>Workshop objectives</b></span> </div><div><ul><li>Review - deep understanding of customer environment, workloads, and technical constraints </li><li>Design - target architecture is designed that is aligned with ALZ and in compliance with customer requirements </li> </ul> </div><div><br> </div><div><b>Definition of done:</b> </div><div><ul><li><span>All technical requirements to build a Landing Zone on Azure are understood and captured</span> </li><li><span>Target architecture design agreed and documented<br></span><span></span><br> </li> </ul> </div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/448",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/447",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/434",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/449",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/450",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/446"
+    },
+    {
+      "id": 480,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:03:06.743Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Prerequisites for an enterprise-scale landing zone",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#what-must-be-true-for-an-enterprise-scale-landing-zone\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#what-must-be-true-for-an-enterprise-scale-landing-zone</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/431",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/480"
+    },
+    {
+      "id": 481,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:03:49.503Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "File > New > Region",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#file--new--region\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#file--new--region</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/431",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/481"
+    },
+    {
+      "id": 482,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:04:31.65Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "File > New > Landing Zone",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#file--new--landing-zone-for-applications-and-workloads\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/implementation-guidelines#file--new--landing-zone-for-applications-and-workloads</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/431",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/482"
+    },
+    {
+      "id": 483,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:10:09.863Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2022-01-19T22:17:00.54Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Review reference implementations",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Review available reference implementations on GitHub:&nbsp;<a href=\"https://github.com/Azure/Enterprise-Scale\">https://github.com/Azure/Enterprise-Scale</a> </div><div><br> </div><div>Follow the guidance using&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options</a> </div><div><br> </div><div>Decide, if any alternative is suitable, and whether you can use it as-is or customize it. </div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/432",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/483"
+    },
+    {
+      "id": 484,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:11:29.4Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Deploy reference implementation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/487",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/485",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/486",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/432",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/484"
+    },
+    {
+      "id": 488,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "eslz-adoproject-template",
+        "System.TeamProject": "eslz-adoproject-template",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2021-02-22T19:15:43.783Z",
+        "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.ChangedDate": "2021-02-22T19:22:20.35Z",
+        "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
+        "System.Title": "Platform as Code implementation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Reference:&nbsp;<a href=\"https://github.com/Azure/Enterprise-Scale/blob/main/docs/Deploy/getting-started.md\">https://github.com/Azure/Enterprise-Scale/blob/main/docs/Deploy/getting-started.md</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/432",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/488"
     }
   ],
   "HttpStatusCode": 0,

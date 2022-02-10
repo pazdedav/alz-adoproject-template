@@ -1,12 +1,36 @@
 {
   "Extensions": [
     {
+      "extensionName": "Accessibility Insights for Azure DevOps - Beta",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=accessibility-insights.prod' target='_blank'><b>Accessibility Insights for Azure DevOps - Beta</b></a>",
+      "publisherId": "accessibility-insights",
+      "extensionId": "prod",
+      "publisherName": "Accessibility Insights",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=accessibility-insights.prod' target='_blank'>License Terms</a>"
+    },
+    {
       "extensionName": "Files and Folders View for Test Attachments",
       "link": "<a href='https://marketplace.visualstudio.com/items?itemName=asg-cloudtest.asg-cloudtest-attachments' target='_blank'><b>Files and Folders View for Test Attachments</b></a>",
       "publisherId": "asg-cloudtest",
       "extensionId": "asg-cloudtest-attachments",
       "publisherName": "CloudTest",
       "License": "<a href='https://marketplace.visualstudio.com/items?itemName=asg-cloudtest.asg-cloudtest-attachments' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Drop Validator Build Task",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=AzureArtifacts.drop-validator-task' target='_blank'><b>Drop Validator Build Task</b></a>",
+      "publisherId": "AzureArtifacts",
+      "extensionId": "drop-validator-task",
+      "publisherName": "Microsoft",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=AzureArtifacts.drop-validator-task' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Manifest Generator Task",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=AzureArtifacts.manifest-generator-task' target='_blank'><b>Manifest Generator Task</b></a>",
+      "publisherId": "AzureArtifacts",
+      "extensionId": "manifest-generator-task",
+      "publisherName": "Microsoft",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=AzureArtifacts.manifest-generator-task' target='_blank'>License Terms</a>"
     },
     {
       "extensionName": "Repository banner (Prod)",
@@ -41,12 +65,12 @@
       "License": "<a href='https://marketplace.visualstudio.com/items?itemName=keesschollaart.AzureCostInsights' target='_blank'>License Terms</a>"
     },
     {
-      "extensionName": "Drop Validator Task",
-      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms.drop-validator-task' target='_blank'><b>Drop Validator Task</b></a>",
-      "publisherId": "ms",
-      "extensionId": "drop-validator-task",
-      "publisherName": "Microsoft",
-      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms.drop-validator-task' target='_blank'>License Terms</a>"
+      "extensionName": "Live Secrets Detection Extension",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=merlinbot-internals.spam-analysis-prod' target='_blank'><b>Live Secrets Detection Extension</b></a>",
+      "publisherId": "merlinbot-internals",
+      "extensionId": "spam-analysis-prod",
+      "publisherName": "MerlinBot",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=merlinbot-internals.spam-analysis-prod' target='_blank'>License Terms</a>"
     },
     {
       "extensionName": "Nuget Security Analysis",
@@ -103,6 +127,14 @@
       "extensionId": "replacetokens",
       "publisherName": "Guillaume Rouchon",
       "License": "<a href='https://marketplace.visualstudio.com/items?itemName=qetza.replacetokens' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Run ARM TTK Tests",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension' target='_blank'><b>Run ARM TTK Tests</b></a>",
+      "publisherId": "Sam-Cogan",
+      "extensionId": "ARMTTKExtension",
+      "publisherName": "Sam Cogan",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension' target='_blank'>License Terms</a>"
     },
     {
       "extensionName": "SARIF SAST Scans Tab",

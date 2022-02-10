@@ -3,7 +3,7 @@
   "value": [
     {
       "id": 429,
-      "rev": 5,
+      "rev": 6,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -13,9 +13,9 @@
         "System.Reason": "New",
         "System.CreatedDate": "2021-02-22T13:52:15.957Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:08.627Z",
+        "System.ChangedDate": "2021-12-03T17:08:08.793Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Enterprise Scale Design",
+        "System.Title": "Azure Landing Zone Design",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
         "System.Description": "<div>The enterprise-scale architecture represents the strategic design path and target technical state for your Azure environment. It will continue to evolve alongside the Azure platform and is defined by the various design decisions that your organization must make to map your Azure journey.<br></div><div><br></div><div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/\">Start with Cloud Adoption Framework enterprise-scale landing zones - Cloud Adoption Framework | Microsoft Docs</a></div>",
         "System.AssignedTo": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": 430,
-      "rev": 3,
+      "rev": 4,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -77,9 +77,9 @@
         "System.Reason": "New",
         "System.CreatedDate": "2021-02-22T13:52:25.207Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-02-22T19:22:08.627Z",
+        "System.ChangedDate": "2021-12-03T17:08:23.74Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.Title": "Enterprise Scale Implementation",
+        "System.Title": "Azure Landing Zone Implementation",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
         "System.Description": null,
         "System.AssignedTo": null,
