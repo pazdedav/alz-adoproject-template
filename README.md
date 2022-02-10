@@ -1,4 +1,4 @@
-# Azure DevOps template for Enterprise Scale Landing Zone
+# Azure DevOps template for Azure Landing Zone projects and engagements
 
 ## Overview
 
@@ -19,7 +19,7 @@ This repo contains a **project template** for Azure DevOps [Demo Generator](http
 
 ![Step 3](docs/img/step3.png)
 
-5. Enter the following URL: `https://github.com/pazdedav/eslz-adoproject-template/raw/v0.1/package/eslz-adoproject-template.zip` (where `v0.1` represents the tag / version) you want to use and click "Submit". _Note: It is recommended to use the latest version._
+5. Enter the following URL: `https://github.com/pazdedav/eslz-adoproject-template/blob/v0.2/package/eslz-adoproject-template.zip` (where `v0.2` represents the tag / version) you want to use and click "Submit". _Note: It is recommended to use the latest version._
 
 ![Step 4](docs/img/step4.png)
 
