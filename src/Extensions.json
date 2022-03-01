@@ -1,6 +1,14 @@
 {
   "Extensions": [
     {
+      "extensionName": "Build Security Monitoring",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=1esblue.build-security-monitoring' target='_blank'><b>Build Security Monitoring</b></a>",
+      "publisherId": "1esblue",
+      "extensionId": "build-security-monitoring",
+      "publisherName": "1ES Security Monitoring",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=1esblue.build-security-monitoring' target='_blank'>License Terms</a>"
+    },
+    {
       "extensionName": "Accessibility Insights for Azure DevOps - Beta",
       "link": "<a href='https://marketplace.visualstudio.com/items?itemName=accessibility-insights.prod' target='_blank'><b>Accessibility Insights for Azure DevOps - Beta</b></a>",
       "publisherId": "accessibility-insights",

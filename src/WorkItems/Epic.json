@@ -3,7 +3,7 @@
   "value": [
     {
       "id": 429,
-      "rev": 6,
+      "rev": 8,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -13,11 +13,11 @@
         "System.Reason": "New",
         "System.CreatedDate": "2021-02-22T13:52:15.957Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-12-03T17:08:08.793Z",
+        "System.ChangedDate": "2022-03-01T08:04:07.643Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
         "System.Title": "Azure Landing Zone Design",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": "<div>The enterprise-scale architecture represents the strategic design path and target technical state for your Azure environment. It will continue to evolve alongside the Azure platform and is defined by the various design decisions that your organization must make to map your Azure journey.<br></div><div><br></div><div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/\">Start with Cloud Adoption Framework enterprise-scale landing zones - Cloud Adoption Framework | Microsoft Docs</a></div>",
+        "System.Description": "<div>Azure landing zones are the output of a multi-subscription Azure environment that accounts for<b> scale, security governance, networking, and identity</b>. Azure landing zones enable application migration, modernization, and innovation at enterprise-scale in Azure. These zones consider all platform resources that are required to support the customer's application portfolio and don't differentiate between infrastructure as a service or platform as a service.<br> </div><div><br> </div><div>Reference:&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/\">What is an Azure landing zone? - Cloud Adoption Framework | Microsoft Docs</a> </div>",
         "System.AssignedTo": null,
         "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
         "Microsoft.VSTS.Common.Priority": 2.0,
@@ -40,22 +40,6 @@
         },
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/435",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/437",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
           "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/434",
           "attributes": {
             "isLocked": "false",
@@ -67,7 +51,7 @@
     },
     {
       "id": 430,
-      "rev": 4,
+      "rev": 5,
       "fields": {
         "System.AreaPath": "eslz-adoproject-template",
         "System.TeamProject": "eslz-adoproject-template",
@@ -77,11 +61,11 @@
         "System.Reason": "New",
         "System.CreatedDate": "2021-02-22T13:52:25.207Z",
         "System.CreatedBy": "David Pazdera <dapazd@microsoft.com>",
-        "System.ChangedDate": "2021-12-03T17:08:23.74Z",
+        "System.ChangedDate": "2022-03-01T08:29:41.453Z",
         "System.ChangedBy": "David Pazdera <dapazd@microsoft.com>",
         "System.Title": "Azure Landing Zone Implementation",
         "Microsoft.VSTS.Scheduling.Effort": 0.0,
-        "System.Description": null,
+        "System.Description": "<div><b>Reference:</b>&nbsp;<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options\">Landing zone implementation options - Cloud Adoption Framework | Microsoft Docs</a> </div>",
         "System.AssignedTo": null,
         "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
         "Microsoft.VSTS.Common.Priority": 2.0,
@@ -97,22 +81,6 @@
         {
           "rel": "System.LinkTypes.Hierarchy-Forward",
           "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/431",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/432",
-          "attributes": {
-            "isLocked": "false",
-            "name": "Child"
-          }
-        },
-        {
-          "rel": "System.LinkTypes.Hierarchy-Forward",
-          "url": "https://dev.azure.com/dapazd/_apis/wit/workItems/433",
           "attributes": {
             "isLocked": "false",
             "name": "Child"
