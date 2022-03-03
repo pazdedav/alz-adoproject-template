@@ -19,10 +19,9 @@ This repo contains a **project template** for Azure DevOps [Demo Generator](http
 
 ![Step 3](docs/img/step3.png)
 
-5. Enter the following URL: `https://github.com/pazdedav/eslz-adoproject-template/blob/v0.3/package/eslz-adoproject-template.zip` (where `v0.3` represents the tag / version) you want to use and click "Submit". _Note: It is recommended to use the latest version._
+5. Enter the following URL: `https://github.com/pazdedav/alz-adoproject-template/blob/v0.4/package/alz-adoproject-template.zip` and click "Submit".
 
 ![Step 4](docs/img/step4.png)
 
 6. Use the "Select organization" drop-down menu and select your DevOps organization, where you want to create your new ALZ project. Enter the name of your project.
 7. Scroll to the bottom and click "Create Project".
-
